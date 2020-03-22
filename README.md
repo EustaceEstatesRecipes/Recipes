@@ -9,4 +9,4 @@ A recipe book of things that are good
 [Al's Easy Sourdough Sandwich](bread/SourdoughSandwich.md) 
  
  ## Beer
-[Making a Beer starter](beer/BeerStarter.md)
+[Making a Beer Starter](beer/BeerStarter.md)
