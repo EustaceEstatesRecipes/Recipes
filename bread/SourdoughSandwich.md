@@ -1,6 +1,6 @@
-#Sourdough Sandwich Bread
+# Sourdough Sandwich Bread
 
-#Ingredients
+# Ingredients
 
  * 480g White Flour
  * 120g Whole Wheat Flour
@@ -9,7 +9,7 @@
  * 75g Mature Sourdough Starter
  
  
- #Steps
+# Steps
  
   1. Combine flour and water. Let sit for 20 mins to autolyse.
   2. Add the Salt and Starter. Let sit for 15 minutes.

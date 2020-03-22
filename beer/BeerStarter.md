@@ -1,12 +1,12 @@
-#Beer Starter
+# Beer Starter
 
-#Ingredients
+# Ingredients
 
  * 420g water
  * 180g Dry Malt Extract
  
  
- #Steps
+# Steps
  
   1. Combine water and malt extract. Bring to a rolling boil and boil for 10 minutes
   2. Fill a bowl with ice water.
