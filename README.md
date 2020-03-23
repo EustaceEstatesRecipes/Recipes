@@ -6,8 +6,9 @@ A recipe book of things that are good
 
 ## Bread
 
-[Al's Easy Sourdough Sandwich](bread/SourdoughSandwich.md)
-[Simple Overnight White](bread/SimpleOvernightWhite.md)
+ * [Al's Easy Sourdough Sandwich](bread/SourdoughSandwich.md)
+ * [Simple Overnight White](bread/SimpleOvernightWhite.md)
 
- ## Beer
-[Making a Beer Starter](beer/BeerStarter.md)
+## Beer
+
+ * [Making a Beer Starter](beer/BeerStarter.md)
