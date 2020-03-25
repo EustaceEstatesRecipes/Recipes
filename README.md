@@ -12,3 +12,4 @@ A recipe book of things that are good
 ## Beer
 
  * [Making a Beer Starter](beer/BeerStarter.md)
+ * [Funky Quarantine Beer](beer/FunkyQuarantineBeer.md)
