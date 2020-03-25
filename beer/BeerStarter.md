@@ -21,7 +21,8 @@
 # Feeding
  1. Pour half the starter out (straining any leftover flour)
  2. Repeat steps 1 - 5 above
- 3. Combine the beer start that is fermenting with the newly made malt and water in step 2
+ 3. Combine the beer starter that is fermenting with the fresh beer starter
+ 4. Cover with cheese cloth and let sit for 2 - 3 days
  
 
 # Using
