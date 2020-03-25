@@ -16,7 +16,7 @@ Makes one gallon of beer
  * 360g blended fruit (I used lychee)
  * 5g mosiac hops
  * 5g citra hops
- 
+ * 1 recipe [1 recipe beer starter](BeerStarter.md)
  
 # Steps
 
